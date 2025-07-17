@@ -1,0 +1,8 @@
+*
+!*/
+!*.md
+!*.py
+!*.vert
+!*.geom
+!*.frag
+!.gitignore
